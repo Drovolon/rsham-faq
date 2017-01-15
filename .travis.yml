@@ -17,6 +17,6 @@ deploy:
   provider: script
   skip_cleanup: true
   script:
-    ~/.local/bin/aws s3 sync _site s3://$BUCKET --delete
+    ~/.local/bin/aws s3 sync _site/ s3://$BUCKET --delete
   on:
     branch: master
