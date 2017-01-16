@@ -29,10 +29,10 @@ Because of [Crashing Waves](http://www.wowhead.com/spell=197464/crashing-waves),
 of [Tidal Waves](http://www.wowhead.com/spell=53390/tidal-waves). That makes your next healing surge have a very
 high chance to crit, which in turn will give [Queen Ascendant](http://www.wowhead.com/spell=207285/queen-ascendant)
 very high uptime. In other words, you'll be bonking party members with healing surge crits (which are on the order
-of about 350k), with every 3rd healing surge being buffed by the [Undulation](http://www.wowhead.com/spell=200071/undulation)
-talent (which will be on the order of 700k), and because of QA, you will enjoy very high haste in this rotation. 
+of about 500k), with every 3rd healing surge being buffed by the [Undulation](http://www.wowhead.com/spell=200071/undulation)
+talent (which will be on the order of 750k), and because of QA, you will enjoy very high haste in this rotation. 
 
-Those 350k/700k numbers are not taking our mastery into account. On a low health target, an undulation'd surge can
+Those 500k/750k numbers are not taking our mastery into account. On a low health target, an undulation'd surge can
 easily heal for over 1 million health. You can frequently take nearly-dead DPS straight to full health this way.
 
 These healing surges will eat your mana, but as mentioned above, drink between pulls.
@@ -83,8 +83,8 @@ respectable damage on trash pulls.
 
 Use [Lightning Surge Totem](http://www.wowhead.com/spell=192058) to help with stuns on trash pulls. 
 Coordinated group stuns are extremely potent in dungeons, and surge totem (also sometimes called "cap totem"
-or "capacitor totem," its previous name). You should try to use cap totem almost on cooldown, usually
-every other trash pack. Try not to overlap it with another AOE stun. 
+or "capacitor totem," its previous name) is no exception. You should try to use cap totem almost on cooldown,
+usually every other trash pack. Try not to overlap it with another AOE stun. 
 
 Cap totem basically stops the damage the group is taking for 5 seconds, in almost all cases. If you know
 a pull's going to be bad, use it when you feel you can't keep up with the incoming damage anymore.
