@@ -12,11 +12,11 @@ Excellent:
     * Fantastic for personal survival
 - [Praetorian's Tidecallers](http://www.wowhead.com/item=137058)
     * Strong synergy with Nighthold 4-piece. Interaction with [Healing Stream Totem](http://www.wowhead.com/spell=5394) was fixed in Patch 7.1.5.
+- [Velen's Future Sight](http://www.wowhead.com/item=144258)
 
 Very good:
 
 - [Focuser of Jonat, the Elder](http://www.wowhead.com/item=137051)
-- [Velen's Future Sight](http://www.wowhead.com/item=144258) (this might be "excellent" - need more logs/conversation to be sure)
 
 Situationally Good:
 
