@@ -11,17 +11,8 @@ For a variety of reasons, the community does not provide stat weights or Pawn st
 - Between 5% and 15% haste (personal preference)
 - Vers to taste
 
-If you'd like concrete numbers, the midpoints are fine:
-
-- Above 100% mastery
-- About 25% crit
-- About 10% haste
-
-and will work well in both raid and dungeons.
+There's a lot of disagreement in the community about the exact distribution of stats, but so long as you're in these general ranges you'll be good for both raids and dungeons.
 
 In general, if a non-jewelry piece of gear has mastery and is 10 ilevels greater than your current piece, it's probably an upgrade.
 
-Don't stress too much about "perfect" stats; so long as you're close to the above numbers, *you will be fine*.
-Practicing and improving your own healing and play is way more useful than getting exactly 27.8% crit.
-
-(Don't believe me? Go compare the stats of the Top 15 rsham healing parses on any fight.)
+Don't stress too much about "perfect" stats. If you look at the Top N logs on a given fight for resto shamans, you'll see a lot of variance in stats.
