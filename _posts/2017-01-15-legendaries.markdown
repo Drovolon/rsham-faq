@@ -4,19 +4,26 @@ title:  "Legendary Ranking"
 categories: legendaries
 ---
 
-These rankings are subjective, but these are mostly in accord with the resto discord.
+These rankings are subjective. [Contact me](/about) if you disagree.
+
+Survival:
+
+These legendaries don't directly affect throughput (besides their stats) except insofar as they help you survive. That is really valuable. For example, I choose to run Prydaz instead of Nobundo because I value the extra durability more than the throughput increase from Nobundo. Whether you should do the same is very subjective, but don't underestimate the value of survival.
+
+- [Prydaz, Xavaric's Magnum Opus](http://www.wowhead.com/item=132444)
+    * Fantastic for personal survival - the shield is very strong
+- [Roots of Shaladrassil](http://www.wowhead.com/item=132466)
 
 Excellent:
 
-- [Prydaz, Xavaric's Magnum Opus](http://www.wowhead.com/item=132444)
-    * Fantastic for personal survival
 - [Praetorian's Tidecallers](http://www.wowhead.com/item=137058)
     * Strong synergy with Nighthold 4-piece. Interaction with [Healing Stream Totem](http://www.wowhead.com/spell=5394) was fixed in Patch 7.1.5.
-- [Velen's Future Sight](http://www.wowhead.com/item=144258)
-
-Very good:
-
 - [Focuser of Jonat, the Elder](http://www.wowhead.com/item=137051)
+
+Good:
+
+- [Velen's Future Sight](http://www.wowhead.com/item=144258)
+    * Need more logs and community discussion to pin down the value of this legendary, but *my* initial impression is that it's good
 
 Situationally Good:
 
@@ -31,7 +38,7 @@ OK:
 
 - [Nobundo's Redemption](http://www.wowhead.com/item=137104)
 - [Elemental Rebalancers](http://www.wowhead.com/item=137036)
-- [Roots of Shaladrassil](http://www.wowhead.com/item=132466)
+   * May be more valuable in Nighthold since there are a lot of fights where Healing Rain is great
 
 Meh:
 
