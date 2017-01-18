@@ -6,12 +6,12 @@ categories: pawn stats weights
 
 For a variety of reasons, the community does not provide stat weights or Pawn strings for resto shamans. Instead, we work on a priority system:
 
-- Above 100% mastery
+- Above 100% mastery (**no cap: we really like mastery**)
 - Between 20% and 30% crit (personal preference)
 - Between 5% and 15% haste (personal preference)
 - Vers to taste
 
-There's a lot of disagreement in the community about the exact distribution of stats, but so long as you're in these general ranges you'll be good for both raids and dungeons.
+There's a lot of disagreement in the community about the exact distribution of stats, but so long as you're in these general ranges you'll be good for both raids and dungeons. Everyone in the community seems to agree that mastery is an excellent stat and you want a lot of it.
 
 In general, if a non-jewelry piece of gear has mastery and is 10 ilevels greater than your current piece, it's probably an upgrade.
 
