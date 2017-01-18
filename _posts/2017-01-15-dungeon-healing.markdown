@@ -57,7 +57,7 @@ members *within 20 yards*. This will effectively make your group immortal, so lo
 
 - [Healing Tide Totem](http://www.wowhead.com/spell=108280)
 
-Use HTT for periods of moderate, sustained damage - for example, for the Latern of Darkness in Maw of Souls.
+Use HTT for periods of moderate, sustained damage - for example, for the Lantern of Darkness in Maw of Souls.
 HTT will help you keep up with incoming damage, but it won't single-handedly save the group.
 
 - [Spirit Link Totem](http://www.wowhead.com/spell=98008)
