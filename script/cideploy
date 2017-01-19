@@ -3,4 +3,4 @@ set -e # halt script on error
 
 aws configure set preview.cloudfront true
 aws s3 sync _site/ s3://$BUCKET --delete
-aws cloudfront create-invalidation --distribution $CLOUDFRONT_DISTRIBUTION_ID --paths "*"
+aws cloudfront create-invalidation --distribution $CLOUDFRONT_DISTRIBUTION_ID --paths "/*"
