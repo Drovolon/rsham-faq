@@ -4,7 +4,19 @@ title:  "Trinkets"
 categories: trinkets
 ---
 
-This will be updated with Nighthold trinkets once I've got a better grasp on their relative value.
+## Nighthold Trinkets
+
+I've updated the below list with the new Nighthold trinkets. You can view the theorycrafting backing their placement (or
+omission) from the list here: [Nighthold Trinket Theorycrafting](/nighthold-trinkets)
+
+**Summary:** None of the Nighthold trinkets are game-changing for us. High level stat sticks will still be better for
+us.
+
+For raids: [Perfectly Preserved Cake][cake] > [Ephemeral Paradox][paradox] > [Etraeus' Celestial Map][map]
+
+For dungeons: [Etraeus' Celestial Map][map] > [Perfectly Preserved Cake][cake]
+
+## Trinket "Ranking"
 
 Quoting Canibehealz from the resto discord:
 
@@ -17,7 +29,7 @@ Quoting Canibehealz from the resto discord:
 > why so many static stat stick trinkets are on the list.  Flask will generally perform better than Senses, despite Senses
 > slightly higher budget, just because of Static intellect. YMMV though
 
-In other words (mostly, I am just rephrasing his quote and adding links/sources):
+Rephrashing Canibehealz's quote, adding some sources, and adding Nighthold information:
 
 - Prefer stat sticks for their consistency. Examples of really good stat sticks:
     * [Unstable Arcanocrystal](http://www.wowhead.com/item=141482/) from Withered J'im world boss
@@ -26,10 +38,15 @@ In other words (mostly, I am just rephrasing his quote and adding links/sources)
       from Helya in ToV (raid) 
         + Any of the secondary stats is good, but we tend to prefer mastery (or crit)
 - Next, prefer the "stat+proc" trinkets, like:
-    * [Vial of Nightmare Fog](http://www.wowhead.com/item=138222/vial-of-nightmare-fog&bonus=1806) from Dragons of
+    * [Perfectly Preserved Cake][cake] from Trilliax in Nighthold
+        + If used properly, this trinket is probably strictly better than [Vial of Nightmare Fog][vial] (see Nighthold
+          section for more information). Similar concerns as Vial apply: an int/mastery stat stick will be better in
+          higher hps fights.
+    * [Vial of Nightmare Fog][vial] from Dragons of
       Nightmare in Emerald Nightmare
         + In a low-hps fight, the proc on Vial is worth intellect approximately equal to another trinket of its
           item level. In a high-hps fight, pure intellect is better (prefer a stat stick).
+    * [Ephemeral Paradox][paradox] from Elisande in Nighthold
     * [Amalgam's Seventh Spine](http://www.wowhead.com/item=136714/amalgams-seventh-spine&bonus=1532:1727) from
       Black Rook Hold
     * [Fluctuating Energy](http://www.wowhead.com/item=142162/fluctuating-energy) from Mana Worm in Karazhan
@@ -37,7 +54,7 @@ In other words (mostly, I am just rephrasing his quote and adding links/sources)
       Court of Stars
     * [Chrono Shard](http://www.wowhead.com/item=137419/chrono-shard&bonus=1532:1727) from Arcway
     * [Naglfar Fare](http://www.wowhead.com/item=133645/naglfar-fare&bonus=1532:1727) from Maw of Souls
-        + Vial of Nightmare Fog, at the same ilevel, is *strictly better* than Naglfar Fare.
+        + [Vial of Nightmare Fog][vial], at the same ilevel, is *strictly better* than Naglfar Fare.
 - Finally, some "starter trinkets":
     * [Darkmoon Deck: Promises](http://www.wowhead.com/item=128710/darkmoon-deck-promises&bonus=670:1482) (crafted)
     * [Darkmoon Deck: Hellfire](http://www.wowhead.com/item=128709/darkmoon-deck-hellfire&bonus=670:1482) (crafted)
@@ -46,17 +63,28 @@ In other words (mostly, I am just rephrasing his quote and adding links/sources)
         + The on-use effect is 98% worthless. Prefer to use Leytorrent Potions instead. This is almost solely for
           static intellect. As a result, at the same ilevel, the Darkmoon trinkets above are better (same intellect,
           but with a better effect).
-
-These lists are not intended to imply a ranking or order.
+    * [Aluriel's Mirror][mirror]
+        + Currently very underwhelming, especially for resto shaman
 
 Special mention:
 
-We get a lot of questions about [Heightened Senses](http://www.wowhead.com/item=139330/heightened-senses&bonus=1806).
-This trinket is usually not so great in raids because the proc has approximately 25% uptime, and that 25% uptime may not
-align with high damage periods (that is, it could proc when you have nothing to do but cast lightning bolt). Or, it
-might proc right when you need it, and it's great. So, in raids, this is the gambler's trinket. That said, raid fights
-that require consistently strong healing are an exception to the rule - like Cenarius. In those cases, Senses is good.
+We get a lot of questions about [Heightened Senses][senses].  This trinket is usually not so great in raids because the
+proc has approximately 25% uptime, and that 25% uptime may not align with high damage periods (that is, it could proc
+when you have nothing to do but cast lightning bolt). Or, it might proc right when you need it, and it's great. So, in
+raids, this is the gambler's trinket. That said, raid fights that require consistently strong healing are an exception
+to the rule - like Cenarius. In those cases, Senses is good.
 
 *However*, because of the way the real procs per minute (rppm) system works, this trinket is extremely strong in
 dungeons. That's because the proc rate "fudge factor" resets when you exit and re-enter combat, which means the uptime
 of Senses is very high in dungeons. 
+
+**Note:** The [Etraeus' Celestial Map][map] trinket from Nighthold is in almost the exact same situation as Heightened
+Senses. It's a proc-based trinket. However, the Map has intellect as its stat instead of Senses, so it is not quite as
+bad for its item level.
+
+[map]: http://www.wowhead.com/item=140803/etraeus-celestial-map&bonus=3518
+[paradox]: http://www.wowhead.com/item=140805/ephemeral-paradox&bonus=3518
+[cake]: http://www.wowhead.com/item=140793/perfectly-preserved-cake&bonus=3445
+[mirror]: http://www.wowhead.com/item=140795/aluriels-mirror&bonus=3518
+[vial]: http://www.wowhead.com/item=138222/vial-of-nightmare-fog&bonus=1806
+[senses]: http://www.wowhead.com/item=139330/heightened-senses&bonus=1806
