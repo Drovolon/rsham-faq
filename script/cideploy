@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-AWS="~/.local/bin/aws"
-
-$AWS configure set preview.cloudfront true
-$AWS s3 sync _site/ s3://$BUCKET --delete
-$AWS cloudfront create-invalidation --distribution $CLOUDFRONT_DISTRIBUTION_ID --paths "*"
+aws configure set preview.cloudfront true
+aws s3 sync _site/ s3://$BUCKET --delete
+aws cloudfront create-invalidation --distribution $CLOUDFRONT_DISTRIBUTION_ID --paths "*"
