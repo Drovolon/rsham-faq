@@ -16,7 +16,8 @@ before_deploy: pip install --user awscli
 deploy:
   provider: script
   skip_cleanup: true
-  script:
-    ~/.local/bin/aws s3 sync _site/ s3://$BUCKET --delete
+  before_script:
+    - chmod +x ./script/cideploy
+  script: ./script/cideploy
   on:
     branch: master
