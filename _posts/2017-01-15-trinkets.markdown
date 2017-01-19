@@ -47,6 +47,8 @@ Rephrashing Canibehealz's quote, adding some sources, and adding Nighthold infor
         + In a low-hps fight, the proc on Vial is worth intellect approximately equal to another trinket of its
           item level. In a high-hps fight, pure intellect is better (prefer a stat stick).
     * [Ephemeral Paradox][paradox] from Elisande in Nighthold
+    * [Etraeus' Celestial Map][map] from Star Augur Etraeus in Nighthold
+        + See the above Nighthold info; [Ephemeral Paradox][paradox] is better than [Etraeus' Celestial Map][map], probably
     * [Amalgam's Seventh Spine](http://www.wowhead.com/item=136714/amalgams-seventh-spine&bonus=1532:1727) from
       Black Rook Hold
     * [Fluctuating Energy](http://www.wowhead.com/item=142162/fluctuating-energy) from Mana Worm in Karazhan
@@ -79,8 +81,8 @@ dungeons. That's because the proc rate "fudge factor" resets when you exit and r
 of Senses is very high in dungeons. 
 
 **Note:** The [Etraeus' Celestial Map][map] trinket from Nighthold is in almost the exact same situation as Heightened
-Senses. It's a proc-based trinket. However, the Map has intellect as its stat instead of Senses, so it is not quite as
-bad for its item level.
+Senses. It's a proc-based trinket. However, the Map has intellect as its stat instead of Senses, so it's still alright
+in raid, just not the best.
 
 [map]: http://www.wowhead.com/item=140803/etraeus-celestial-map&bonus=3518
 [paradox]: http://www.wowhead.com/item=140805/ephemeral-paradox&bonus=3518
