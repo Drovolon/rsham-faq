@@ -7,7 +7,7 @@ categories: trinkets theorycrafting
 **Note:** If you're looking for how these trinkets fit into the larger context of existing trinkets, see
 [Trinkets](/trinkets) instead.
 
-For raids: [Perfectly Preserved Cake][cake] > [Ephemeral Paradox][paradox] > [Etraeus' Celestial Map][map]
+For raids: [Ephemeral Paradox][paradox] > [Perfectly Preserved Cake][cake]> [Etraeus' Celestial Map][map]
 
 For dungeons: [Etraeus' Celestial Map][map] > [Perfectly Preserved Cake][cake]
 
@@ -20,7 +20,9 @@ Here's some theorycrafting about Nighthold trinkets:
       1.2 * (3869 + 19800) = 28402 mana
   
   per minute. Over a 5-minute fight, that's 142k mana restored - about 2.5 chain heal casts - which you could use to heal
-  3 million or so health. Maybe a 2-4% bump in overall healing.
+  3 million or so health. The extra mana is maybe a 2-4% bump in overall healing, and the static intellect makes this is a
+  decent trinket, especially if you have mana issues sometimes. However, I would still prefer an int/stat stat stick, 
+  as >1k mastery or crit will probably be more than 2% healing done in a fight.
 
 - [Etraeus' Celestial Map][map] from Star Augur Etraeus.  According to Wowhead, this trinket has approximately 2 procs
   per minute, leading to (2 &times; 8 sec / 60 sec) &asymp; 27% uptime. As a relatively low uptime proc trinket, the Map
@@ -41,6 +43,8 @@ Here's some theorycrafting about Nighthold trinkets:
   trinket is probably better than [Vial of Nightmare Fog][vial] for similar item levels,** if used properly (which should not be
   that hard, given the information above). This is especially the case for Nighthold, which has several fights where the
   raid stacks.
+
+  This trinket may be mechanically annoying to use, however...
 
 - [Aluriel's Mirror][mirror] from Spellblade Aluriel. According to Wowhead, this trinket has approximately 3 procs per
   minute, giving a total healing of 321k healing per minute (in the form of a 12 sec HoT) plus the *chance* for some 58k

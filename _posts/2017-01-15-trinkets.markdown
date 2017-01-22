@@ -12,7 +12,7 @@ omission) from the list here: [Nighthold Trinket Theorycrafting](/nighthold-trin
 **Summary:** None of the Nighthold trinkets are game-changing for us. High level stat sticks will still be better for
 us.
 
-For raids: [Perfectly Preserved Cake][cake] > [Ephemeral Paradox][paradox] > [Etraeus' Celestial Map][map]
+For raids: [Ephemeral Paradox][paradox] > [Perfectly Preserved Cake][cake]> [Etraeus' Celestial Map][map]
 
 For dungeons: [Etraeus' Celestial Map][map] > [Perfectly Preserved Cake][cake]
 
@@ -38,6 +38,7 @@ Rephrashing Canibehealz's quote, adding some sources, and adding Nighthold infor
       from Helya in ToV (raid) 
         + Any of the secondary stats is good, but we tend to prefer mastery (or crit)
 - Next, prefer the "stat+proc" trinkets, like:
+    * [Ephemeral Paradox][paradox] from Elisande in Nighthold
     * [Perfectly Preserved Cake][cake] from Trilliax in Nighthold
         + If used properly, this trinket is probably strictly better than [Vial of Nightmare Fog][vial] (see Nighthold
           section for more information). Similar concerns as Vial apply: an int/mastery stat stick will be better in
@@ -46,7 +47,6 @@ Rephrashing Canibehealz's quote, adding some sources, and adding Nighthold infor
       Nightmare in Emerald Nightmare
         + In a low-hps fight, the proc on Vial is worth intellect approximately equal to another trinket of its
           item level. In a high-hps fight, pure intellect is better (prefer a stat stick).
-    * [Ephemeral Paradox][paradox] from Elisande in Nighthold
     * [Etraeus' Celestial Map][map] from Star Augur Etraeus in Nighthold
         + See the above Nighthold info; [Ephemeral Paradox][paradox] is better than [Etraeus' Celestial Map][map], probably
     * [Amalgam's Seventh Spine](http://www.wowhead.com/item=136714/amalgams-seventh-spine&bonus=1532:1727) from
