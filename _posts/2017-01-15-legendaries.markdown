@@ -8,10 +8,12 @@ These rankings are subjective. [Contact me](/about) if you disagree.
 
 Survival:
 
-These legendaries don't directly affect throughput (besides their stats) except insofar as they help you survive. That is really valuable. For example, I choose to run Prydaz instead of Nobundo because I value the extra durability more than the throughput increase from Nobundo. Whether you should do the same is very subjective, but don't underestimate the value of survival.
+These legendaries don't directly affect throughput (besides their stats) except insofar as they help you survive. That is really valuable. For example,
+I choose to run Prydaz instead of Nobundo because I value the extra durability more than the throughput increase from Nobundo. Whether you should do
+the same is very subjective, but don't underestimate the value of survival.
 
 - [Prydaz, Xavaric's Magnum Opus](http://www.wowhead.com/item=132444)
-    * Fantastic for personal survival - the shield is very strong
+    * Fantastic for personal survival - the shield is very strong - and has an absurd amount of stats.
 - [Roots of Shaladrassil](http://www.wowhead.com/item=132466)
     * Good, steady self-healing. Feeds into [Cloudburst Totem][cbt] and is affected by [Ancestral Guidance][ag], for what it's worth. 
 
