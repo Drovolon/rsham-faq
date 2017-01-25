@@ -33,24 +33,22 @@ Quoting Canibehealz from the resto discord:
 
 Rephrashing Canibehealz's quote, adding some sources, and adding Nighthold information:
 
-- Prefer stat sticks for their consistency. Examples of really good stat sticks:
+- First, after the Jan 24 buffs, I *personally* consider [Perfectly Preserved Cake][cake] to be best-in-slot for the
+  Nighthold fights currently (at a decent ilevel, anyway). See the Nighthold link above, which contains info on how
+  Cake actually functions - there are some common misconceptions.
+- Next, prefer stat sticks for their consistency. (That said, it may be hard to compete with the Nighthold trinkets,
+  which have high base ilevel.) Examples of really good stat sticks:
     * [Unstable Arcanocrystal](http://www.wowhead.com/item=141482/) from Withered J'im world boss
     * [Ethereal Urn](http://www.wowhead.com/item=142166/) from Nightbane in Karazhan
     * [Brinewater Slime in a Bottle](http://www.wowhead.com/item=142507/brinewater-slime-in-a-bottle&bonus=605:1497)
       from Helya in ToV (raid) 
         + Any of the secondary stats is good, but we tend to prefer mastery (or crit)
 - Next, prefer the "stat+proc" trinkets, like:
-    * [Perfectly Preserved Cake][cake] from Trilliax in Nighthold
-        + If used properly, this trinket is probably strictly better than [Vial of Nightmare Fog][vial] (see Nighthold
-          section for more information). Similar concerns as Vial apply: an int/mastery stat stick will be better in
-          higher hps fights.
     * [Ephemeral Paradox][paradox] from Elisande in Nighthold
     * [Etraeus' Celestial Map][map] from Star Augur Etraeus in Nighthold
-        + See the above Nighthold info; [Ephemeral Paradox][paradox] is better than [Etraeus' Celestial Map][map], probably
-    * [Vial of Nightmare Fog][vial] from Dragons of
-      Nightmare in Emerald Nightmare
-        + In a low-hps fight, the proc on Vial is worth intellect approximately equal to another trinket of its
-          item level. In a high-hps fight, pure intellect is better (prefer a stat stick).
+        + See the above Nighthold info. This is a little worse than a stat stick of the same item level, but it may
+          be hard to find a stat stick at such a high ilevel currently.
+    * [Vial of Nightmare Fog][vial] from Dragons of Nightmare in Emerald Nightmare
     * [Amalgam's Seventh Spine](http://www.wowhead.com/item=136714/amalgams-seventh-spine&bonus=1532:1727) from
       Black Rook Hold
     * [Fluctuating Energy](http://www.wowhead.com/item=142162/fluctuating-energy) from Mana Worm in Karazhan
