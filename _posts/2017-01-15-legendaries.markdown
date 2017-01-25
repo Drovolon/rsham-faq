@@ -13,6 +13,7 @@ These legendaries don't directly affect throughput (besides their stats) except 
 - [Prydaz, Xavaric's Magnum Opus](http://www.wowhead.com/item=132444)
     * Fantastic for personal survival - the shield is very strong
 - [Roots of Shaladrassil](http://www.wowhead.com/item=132466)
+    * Good, steady self-healing. Feeds into [Cloudburst Totem][cbt] and is affected by [Ancestral Guidance][ag], for what it's worth. 
 
 Excellent:
 
@@ -43,3 +44,6 @@ OK:
 Meh:
 
 - [Intact Nazjatar Molting](http://www.wowhead.com/item=137085)
+
+[cbt]: http://www.wowhead.com/spell=157153/
+[ag]: http://www.wowhead.com/spell=108281
