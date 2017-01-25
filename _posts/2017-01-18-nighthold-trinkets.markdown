@@ -42,6 +42,7 @@ Here's some theorycrafting about Nighthold trinkets:
     * The trinket is off GCD
     * Allies just need to walk near the cake (about a 10 yard radius) to get the benefit from the cake - no interaction
       required - but there is a 5 ally limit
+    * If you drop the cake in a clump of allies, it auto applies to 5 of them without any action (no movement required)
 
   So, this trinket (at 900 item level) places five 296k absorbs (= 1.48 mil total) every 2 minutes, or about 740k
   absorbs per minute on average. Not bad - [Vial of Nightmare Fog][vial], for example, does about the same absorbs per
