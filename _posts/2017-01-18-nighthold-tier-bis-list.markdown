@@ -12,6 +12,10 @@ is your primary heal (see [Dungeon Healing Guide](/dungeon-healing)).
 depending on the HPS requirements, your playstyle, and whether or not you have [Praetorian's
 Tidecallers](http://www.wowhead.com/item=137058). It is significant.
 
+**Does the 4-piece proc when you generate a Tidal Waves charge or when you spend one?** It procs when you generate
+one. That's why it's so powerful. Frequent chain heals are still potent with the 4-piece. (Note: it only generates
+one charge when you [Riptide][riptide] with [Crashing Waves](http://www.wowhead.com/spell=197464/crashing-waves).)
+
 **Which pieces should we get?** Llenne has curated a [community BiS guide for
 Nighthold](https://docs.google.com/spreadsheets/d/1JDs9yaU-xFctoalGoQSX_JkvGOCx6qTC3deG9BRj4VM/) that gives some
 starting points.
@@ -19,3 +23,4 @@ starting points.
 **I don't like those stats. Should I take the 4-piece?** Yes.
 
 [surge]: http://www.wowhead.com/spell=8004
+[riptide]: http://www.wowhead.com/spell=61295
