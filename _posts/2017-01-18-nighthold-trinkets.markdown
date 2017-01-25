@@ -7,11 +7,17 @@ categories: trinkets theorycrafting
 **Note:** If you're looking for how these trinkets fit into the larger context of existing trinkets, see
 [Trinkets](/trinkets) instead.
 
-For raids: [Ephemeral Paradox][paradox] > [Perfectly Preserved Cake][cake]> [Etraeus' Celestial Map][map]
+(These priorities have been updated for the Jan 24 hotfix.)
+
+For raids:  [Perfectly Preserved Cake][cake] > [Ephemeral Paradox][paradox] > [Etraeus' Celestial Map][map]
 
 For dungeons: [Etraeus' Celestial Map][map] > [Perfectly Preserved Cake][cake]
 
 Here's some theorycrafting about Nighthold trinkets:
+
+**These numbers are outdated as of the hotfix on Jan 24, 2017.** See
+[Questionably Epic's analysis](https://questionablyepic.com/nighthold-healer-trinkets-update/) for up-to-date numbers.
+
 
 - [Ephemeral Paradox][paradox] from Elisande. Only affects Healing Wave (that is, it procs off all heals, but only makes
   Healing Wave free/restore mana). According to Wowhead, this trinket has a proc rate set at &asymp;1.2 procs per
