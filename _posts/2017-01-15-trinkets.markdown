@@ -34,8 +34,13 @@ Quoting Canibehealz from the resto discord:
 Rephrashing Canibehealz's quote, adding some sources, and adding Nighthold information:
 
 - First, after the Jan 24 buffs, I *personally* consider [Perfectly Preserved Cake][cake] to be best-in-slot for the
-  Nighthold fights currently (at a decent ilevel, anyway). See the Nighthold link above, which contains info on how
-  Cake actually functions - there are some common misconceptions.
+  Nighthold fights currently (at a decent ilevel, anyway). There are some common misconceptions about how Cake works;
+  here's how it goes:
+      * The cake is placed instantly in front of you when you use it; there's no targeting
+      * The trinket is off GCD
+      * Allies just need to walk near the cake (about a 10 yard radius) to get the benefit from the cake - no interaction
+        required - but there is a 5 ally limit
+      * If you drop the cake in a clump of allies, it auto applies to 5 of them without any action (no movement required)
 - Next, prefer stat sticks for their consistency. (That said, it may be hard to compete with the Nighthold trinkets,
   which have high base ilevel.) Examples of really good stat sticks:
     * [Unstable Arcanocrystal](http://www.wowhead.com/item=141482/) from Withered J'im world boss
