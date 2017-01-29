@@ -9,7 +9,8 @@ categories: trinkets theorycrafting
 
 (These priorities have been updated for the Jan 24 hotfix.)
 
-For raids:  [Perfectly Preserved Cake][cake] > [Etraeus' Celestial Map][map] > [Ephemeral Paradox][paradox] > [Aluriel's Mirror][mirror]
+For raids:  
+[Perfectly Preserved Cake][cake] > [Etraeus' Celestial Map][map] > [Ephemeral Paradox][paradox] > [Aluriel's Mirror][mirror]
 
 For dungeons: [Etraeus' Celestial Map][map] > [Perfectly Preserved Cake][cake]
 
