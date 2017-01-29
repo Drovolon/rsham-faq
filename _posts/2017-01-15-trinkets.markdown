@@ -39,9 +39,14 @@ Rephrashing Canibehealz's quote, adding some sources, and adding Nighthold infor
   here's how it goes:
     * The cake is placed instantly in front of you when you use it; there's no targeting
     * The trinket is off GCD
-    * Allies just need to walk near the cake (about a 10 yard radius) to get the benefit from the cake - no interaction
-      required - but there is a 5 ally limit
-    * If you drop the cake in a clump of allies, it auto applies to 5 of them without any action (no movement required)
+    * Allies just need to walk near the cake (8 yard radius) to get the benefit from the cake - no interaction
+      required - but there is a 5 ally limit (plus yourself, an undocumented change (or bug?)).
+    * If you drop the cake in a clump of allies, it auto applies to 5 of them (plus yourself) without any action 
+      (no movement required)
+    * [This picture](/assets/cake-radius.jpg) shows where the trinket drops when you use it relative to your
+      character. Yourself plus five allies who are within the green targeting reticle are affected (or if fewer
+      than five are originally in the reticle, there is a 20 second window for others to walk within the 8
+      yard range and get the buff.)
 - Next, prefer stat sticks for their consistency. (That said, it may be hard to compete with the Nighthold trinkets,
   which have high base ilevel.) Examples of really good stat sticks:
     * [Unstable Arcanocrystal](http://www.wowhead.com/item=141482/) from Withered J'im world boss
