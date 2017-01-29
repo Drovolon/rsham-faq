@@ -42,11 +42,13 @@ Here's some theorycrafting about Nighthold trinkets:
 
 - [Perfectly Preserved Cake][cake] from Trilliax. This trinket is... interesting. A useful Wowhead comment tells us it
   has these properties:
-    * The cake is placed instantly in front of you when you use it; there's no targeting
     * The trinket is off GCD
-    * Allies just need to walk near the cake (about a 10 yard radius) to get the benefit from the cake - no interaction
-      required - but there is a 5 ally limit
-    * If you drop the cake in a clump of allies, it auto applies to 5 of them without any action (no movement required)
+    * The cake is placed instantly in front of you when you use it. It immediately affects yourself (maybe a bug)
+      plus five other raid members within an 8 yard radius. No action or movement is required. If there are fewer
+      than five other members, the cake persists for 20 seconds and will auto-apply to those who enter its radius
+      (up to the cap).  See [this picture](/assets/cake-radius.jpg) to see where the trinket drops in relation to
+      your character and how wide the radius of effect is. **Note:** The cake persists for a bit even after its
+      charges are exhausted, so don't tell raid members to run to it if they see it, necessarily.
 
   So, this trinket (at 900 item level) places five 296k absorbs (= 1.48 mil total) every 2 minutes, or about 740k
   absorbs per minute on average. Not bad - [Vial of Nightmare Fog][vial], for example, does about the same absorbs per
