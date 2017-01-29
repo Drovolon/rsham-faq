@@ -14,7 +14,7 @@ us.
 
 (These priorities have been updated for the Jan 24 hotfix.)
 
-For raids:  [Perfectly Preserved Cake][cake] > [Ephemeral Paradox][paradox] > [Etraeus' Celestial Map][map]
+For raids:  [Perfectly Preserved Cake][cake] > [Etraeus' Celestial Map][map]> [Ephemeral Paradox][paradox] > [Aluriel's Mirror][mirror]
 
 For dungeons: [Etraeus' Celestial Map][map] > [Perfectly Preserved Cake][cake]
 
@@ -49,10 +49,11 @@ Rephrashing Canibehealz's quote, adding some sources, and adding Nighthold infor
       from Helya in ToV (raid) 
         + Any of the secondary stats is good, but we tend to prefer mastery (or crit)
 - Next, prefer the "stat+proc" trinkets, like:
-    * [Ephemeral Paradox][paradox] from Elisande in Nighthold
     * [Etraeus' Celestial Map][map] from Star Augur Etraeus in Nighthold
         + See the above Nighthold info. This is a little worse than a stat stick of the same item level, but it may
           be hard to find a stat stick at such a high ilevel currently.
+    * [Ephemeral Paradox][paradox] from Elisande in Nighthold
+        + May have a lower proc-per-minute value than the datamined value from Wowhead suggests (needs confirmation)
     * [Vial of Nightmare Fog][vial] from Dragons of Nightmare in Emerald Nightmare
     * [Amalgam's Seventh Spine](http://www.wowhead.com/item=136714/amalgams-seventh-spine&bonus=1532:1727) from
       Black Rook Hold

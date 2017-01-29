@@ -9,7 +9,7 @@ categories: trinkets theorycrafting
 
 (These priorities have been updated for the Jan 24 hotfix.)
 
-For raids:  [Perfectly Preserved Cake][cake] > [Ephemeral Paradox][paradox] > [Etraeus' Celestial Map][map]
+For raids:  [Perfectly Preserved Cake][cake] > [Etraeus' Celestial Map][map] > [Ephemeral Paradox][paradox] > [Aluriel's Mirror][mirror]
 
 For dungeons: [Etraeus' Celestial Map][map] > [Perfectly Preserved Cake][cake]
 
@@ -29,6 +29,9 @@ Here's some theorycrafting about Nighthold trinkets:
   3 million or so health. The extra mana is maybe a 2-4% bump in overall healing, and the static intellect makes this is a
   decent trinket, especially if you have mana issues sometimes. However, I would still prefer an int/stat stat stick, 
   as >1k mastery or crit will probably be more than 2% healing done in a fight.
+
+  **Note:** Some info suggests that the datamined value for the procs per min (from Wowhead) may be higher than it actually
+  is in game. Need to confirm, but if so that makes this trinket weaker than expected.
 
 - [Etraeus' Celestial Map][map] from Star Augur Etraeus.  According to Wowhead, this trinket has approximately 2 procs
   per minute, leading to (2 &times; 8 sec / 60 sec) &asymp; 27% uptime. As a relatively low uptime proc trinket, the Map
