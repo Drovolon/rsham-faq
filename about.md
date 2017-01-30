@@ -15,5 +15,5 @@ answers I give.
 
 You can also contribute [on GitHub](https://github.com/Drovolon/rsham-faq). Pull requests accepted.
 
-I made this site because I felt authoritative sources were either outdated, incorrect, or otherwise *not opinionated
-enough* (that is: presenting lots of facts with very little prescriptive advice).
+I made this site because I felt authoritative sources were often verbose and did not give concise, prescriptive advice,
+especially for users who just want quick answers.
