@@ -6,12 +6,9 @@ categories: trinkets
 
 ## Nighthold Trinkets
 
-None of the Nighthold trinkets are game-changing for us. High level stat sticks are still better. 
-
-For raids:  
-[Perfectly Preserved Cake][cake] > [Etraeus' Celestial Map][map]> [Ephemeral Paradox][paradox] > [Aluriel's Mirror][mirror]
-
-For dungeons: [Etraeus' Celestial Map][map] > [Perfectly Preserved Cake][cake]
+[Perfectly Preserved Cake][cake] is strong. The other Nighthold trinkets are probably worse than a stat stick of equivalent
+ilevel, with the caveat that getting an equivalent-ilevel stat stick is difficult because of the high base ilevel of the
+Nighthold trinkets.
 
 ## Trinket "Ranking"
 
@@ -49,8 +46,10 @@ discrepancies, defer to Canibe.
     * [Etraeus' Celestial Map][map] from Star Augur Etraeus in Nighthold
         + See the above Nighthold info. This is a little worse than a stat stick of the same item level, but it may
           be hard to find a stat stick at such a high ilevel currently.
+        + In my opinion, BiS in dungeons (see below)
     * [Ephemeral Paradox][paradox] from Elisande in Nighthold
         + May have a lower proc-per-minute value than the datamined value from Wowhead suggests (needs confirmation)
+        + Less valuable in dungeons because mana isn't usually a concern there
     * [Vial of Nightmare Fog][vial] from Dragons of Nightmare in Emerald Nightmare
     * [Amalgam's Seventh Spine](http://www.wowhead.com/item=136714/amalgams-seventh-spine&bonus=1532:1727) from
       Black Rook Hold
