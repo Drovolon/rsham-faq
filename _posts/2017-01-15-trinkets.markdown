@@ -6,13 +6,7 @@ categories: trinkets
 
 ## Nighthold Trinkets
 
-I've updated the below list with the new Nighthold trinkets. You can view the theorycrafting backing their placement (or
-omission) from the list here: [Nighthold Trinket Theorycrafting](/nighthold-trinkets)
-
-**Summary:** None of the Nighthold trinkets are game-changing for us. High level stat sticks will still be better for
-us.
-
-(These priorities have been updated for the Jan 24 hotfix.)
+None of the Nighthold trinkets are game-changing for us. High level stat sticks are still better. 
 
 For raids:  
 [Perfectly Preserved Cake][cake] > [Etraeus' Celestial Map][map]> [Ephemeral Paradox][paradox] > [Aluriel's Mirror][mirror]
@@ -21,7 +15,7 @@ For dungeons: [Etraeus' Celestial Map][map] > [Perfectly Preserved Cake][cake]
 
 ## Trinket "Ranking"
 
-Quoting Canibehealz from the resto discord:
+Quoting Canibehealz from Earthshrine:
 
 > Some trinkets will see situationally better use than others. Cocoon makes a great early stat stick for a large amount of
 > Int but should be replaced eventually. General use trinkets include Urn, Vial, Naglfar, Spine, Brinewater Crit/Mastery,
@@ -32,16 +26,16 @@ Quoting Canibehealz from the resto discord:
 > why so many static stat stick trinkets are on the list.  Flask will generally perform better than Senses, despite Senses
 > slightly higher budget, just because of Static intellect. YMMV though
 
-Rephrashing Canibehealz's quote, adding some sources, and adding Nighthold information:
+The below list is essentially just quoting Canibehealz, adding info on where they drop plus some misc notes, and including
+the Nighthold trinkets. I decided to include both the quote and the list so you can see the differences - if there are 
+discrepancies, defer to Canibe.
 
-- First, after the Jan 24 buffs, I *personally* consider [Perfectly Preserved Cake][cake] to be best-in-slot for the
-  Nighthold fights currently (at a decent ilevel, anyway). There are some common misconceptions about how Cake works;
-  here's how it goes:
+- I consider [Perfectly Preserved Cake][cake] to be best-in-slot for the Nighthold fights currently. Here's how Cake works:
     * The trinket is off GCD
     * The cake is placed instantly in front of you when you use it. It immediately affects yourself (maybe a bug)
       plus five other raid members within an 8 yard radius. No action or movement is required. If there are fewer
       than five other members, the cake persists for 20 seconds and will auto-apply to those who enter its radius
-      (up to the cap).  See [this picture](/assets/cake-radius.jpg) to see where the trinket drops in relation to
+      (up to the cap). See [this picture](/assets/cake-radius.jpg) to see where the trinket drops in relation to
       your character and how wide the radius of effect is. **Note:** The cake persists for a bit even after its
       charges are exhausted, so don't tell raid members to run to it if they see it, necessarily.
 - Next, prefer stat sticks for their consistency. (That said, it may be hard to compete with the Nighthold trinkets,

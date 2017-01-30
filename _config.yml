@@ -30,3 +30,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      hide: false
