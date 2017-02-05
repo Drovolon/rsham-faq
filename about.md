@@ -14,6 +14,3 @@ to the #restoration channel. I am not infallible and it's best that folks in #re
 answers I give.
 
 You can also contribute [on GitHub](https://github.com/Drovolon/rsham-faq). Pull requests accepted.
-
-I made this site because I felt authoritative sources were often verbose and did not give concise, prescriptive advice,
-especially for users who just want quick answers.
