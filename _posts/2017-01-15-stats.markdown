@@ -8,7 +8,7 @@ For a variety of reasons, the community does not provide stat weights or Pawn st
 
 - Above 100% mastery (**no cap: we really like mastery**)
 - Between 20% and 30% crit (personal preference)
-- Between 5% and 15% haste (personal preference)
+- Between 5% and 20% haste (personal preference)
 - Vers to taste
 
 There's a lot of disagreement in the community about the exact distribution of stats, but so long as you're in these general ranges you'll be good for both raids and dungeons. Everyone in the community seems to agree that mastery is an excellent stat and you want a lot of it.
