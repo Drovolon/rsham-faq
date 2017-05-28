@@ -2,6 +2,7 @@
 layout: post
 title:  "Nighthold BiS List and Tier Sets"
 categories: nighthold bis tier set bonus
+hide: true
 ---
 
 **Should we get the 2-piece bonus?** Yes. In raid, you can expect 2-4% extra healing on most fights, and maybe even
