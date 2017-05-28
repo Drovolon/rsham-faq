@@ -4,52 +4,34 @@ title:  "Trinkets"
 categories: trinkets
 ---
 
-## Nighthold Trinkets
-
-[Perfectly Preserved Cake][cake] is strong. The other Nighthold trinkets are probably worse than a stat stick of equivalent
-ilevel, with the caveat that getting an equivalent-ilevel stat stick is difficult because of the high base ilevel of the
-Nighthold trinkets.
-
 ## Trinket "Ranking"
 
-Quoting Canibehealz from Earthshrine:
-
-> Some trinkets will see situationally better use than others. Cocoon makes a great early stat stick for a large amount of
-> Int but should be replaced eventually. General use trinkets include Urn, Vial, Naglfar, Spine, Brinewater Crit/Mastery,
-> Fluc. Energy esp. with Nightbane chest, Flask, WQ Crit/Mastery, Arcanocrystal, Chrono Shard. Its important to always
-> make use of the procs/use effects of your trinkets and plan movement accordingly. Gathering Mana Orbs is easy enough. If
-> your trinket procs and theres nothing to heal, try throwing out some faster Lightning Bolts. Senses can be a
-> godsend or useless depending on when it procs. Consistency is better than anything else when it comes to healing, thats
-> why so many static stat stick trinkets are on the list.  Flask will generally perform better than Senses, despite Senses
-> slightly higher budget, just because of Static intellect. YMMV though
-
-The below list is essentially just quoting Canibehealz, adding info on where they drop plus some misc notes, and including
-the Nighthold trinkets. I decided to include both the quote and the list so you can see the differences - if there are 
-discrepancies, defer to Canibe.
-
-- I consider [Perfectly Preserved Cake][cake] to be best-in-slot for the Nighthold fights currently. Here's how Cake works:
-    * The trinket is off GCD
-    * The cake is placed instantly in front of you when you use it. It immediately affects yourself (maybe a bug)
-      plus five other raid members within an 8 yard radius. No action or movement is required. If there are fewer
-      than five other members, the cake persists for 20 seconds and will auto-apply to those who enter its radius
-      (up to the cap). See [this picture](/assets/cake-radius.jpg) to see where the trinket drops in relation to
-      your character and how wide the radius of effect is. **Note:** The cake persists for a bit even after its
-      charges are exhausted, so don't tell raid members to run to it if they see it, necessarily.
-- Next, prefer stat sticks for their consistency. (That said, it may be hard to compete with the Nighthold trinkets,
+- Stat sticks for their consistency. (That said, it may be hard to compete with the Nighthold trinkets,
   which have high base ilevel.) Examples of really good stat sticks:
     * [Unstable Arcanocrystal](http://www.wowhead.com/item=141482/) from Withered J'im world boss
     * [Ethereal Urn](http://www.wowhead.com/item=142166/) from Nightbane in Karazhan
     * [Brinewater Slime in a Bottle](http://www.wowhead.com/item=142507/brinewater-slime-in-a-bottle&bonus=605:1497)
       from Helya in ToV (raid) 
         + Any of the secondary stats is good, but we tend to prefer mastery (or crit)
-- Next, prefer the "stat+proc" trinkets, like:
+- The value of [Perfectly Preserved Cake][cake] depends on your item level and the throughput requirements of the
+  fight. Since the absorb doesn't scale with stats (except vers, which is irrelevant), for highly geared players
+  with other trinket options, Cake won't be quite as good, especially since the legendary trinket is so powerful
+  for us. Here's how it works:
+    * The trinket is off GCD
+    * The cake is placed instantly in front of you when you use it. It immediately affects yourself (maybe a bug)
+      plus five other raid members within an 8 yard radius. No action or movement is required. If there are fewer
+      than five other members, the cake persists for 20 seconds and will auto-apply to those who enter its radius
+      (up to the cap). See [this picture](/assets/cake-radius.jpg) to see where the trinket drops in relation to
+      your character and how wide the radius of effect is. **Note:** The cake persists for a bit even after its
+      charges are exhausted, so don't tell raid members to run to it if they see it, necessarily.    
+  Most folks around the 910+ item level range will be running stat sticks and/or [Etraeus' Celestial Map][map] 
+  instead of Cake, along with the legendary trinket.
+- Next, prefer the "stat+proc" trinkets, like
     * [Etraeus' Celestial Map][map] from Star Augur Etraeus in Nighthold
         + See the above Nighthold info. This is a little worse than a stat stick of the same item level, but it may
           be hard to find a stat stick at such a high ilevel currently.
-        + In my opinion, BiS in dungeons (see below)
     * [Ephemeral Paradox][paradox] from Elisande in Nighthold
-        + May have a lower proc-per-minute value than the datamined value from Wowhead suggests (needs confirmation)
-        + Less valuable in dungeons because mana isn't usually a concern there
+        + If you don't think you can utilize the extra mana, then this isn't a good option.
     * [Vial of Nightmare Fog][vial] from Dragons of Nightmare in Emerald Nightmare
     * [Amalgam's Seventh Spine](http://www.wowhead.com/item=136714/amalgams-seventh-spine&bonus=1532:1727) from
       Black Rook Hold
@@ -69,22 +51,6 @@ discrepancies, defer to Canibe.
           but with a better effect).
     * [Aluriel's Mirror][mirror]
         + Currently very underwhelming, especially for resto shaman
-
-Special mention:
-
-We get a lot of questions about [Heightened Senses][senses].  This trinket is usually not so great in raids because the
-proc has approximately 25% uptime, and that 25% uptime may not align with high damage periods (that is, it could proc
-when you have nothing to do but cast lightning bolt). Or, it might proc right when you need it, and it's great. So, in
-raids, this is the gambler's trinket. That said, raid fights that require consistently strong healing are an exception
-to the rule - like Cenarius. In those cases, Senses is good.
-
-*However*, because of the way the real procs per minute (rppm) system works, this trinket is extremely strong in
-dungeons. That's because the proc rate "fudge factor" resets when you exit and re-enter combat, which means the uptime
-of Senses is very high in dungeons. 
-
-**Note:** The [Etraeus' Celestial Map][map] trinket from Nighthold is in almost the exact same situation as Heightened
-Senses. It's a proc-based trinket. However, the Map has intellect as its stat instead of Senses, so it's still alright
-in raid, just not the best.
 
 [map]: http://www.wowhead.com/item=140803/etraeus-celestial-map&bonus=3518
 [paradox]: http://www.wowhead.com/item=140805/ephemeral-paradox&bonus=3518
