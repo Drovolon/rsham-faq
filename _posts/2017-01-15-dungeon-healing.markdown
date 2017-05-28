@@ -67,7 +67,7 @@ SLT is probably the most _interesting_ ability in our toolkit. It creates one gi
 everyone who stands in it.
 
 SLT is the preferred cooldown for cases where there are extreme differences in group members' health. For example,
-it can be used to save a tank who is nearly dead (so long as you and the DPS have sufficient healh to redistribute).
+it can be used to save a tank who is nearly dead (so long as you and the DPS have sufficient health to redistribute).
 It can also be used to save pulls where the tank has not established aggro appropriately on the mobs, and as a result
 they are walking around hitting random people - for example, the jump off point in Vault where you may aggro several
 spirits and spiders. In those cases, total damage taken by the group is still higher than usual (because a mage has
