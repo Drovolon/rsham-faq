@@ -2,6 +2,7 @@
 layout: post
 title:  "Trinkets"
 categories: trinkets
+redirect: "https://ancestralguidance.com/trinket-overview/"
 ---
 
 ## Trinket "Ranking"

@@ -2,6 +2,7 @@
 layout: post
 title:  "Dungeon Healing Guide"
 categories: dungeons
+redirect: "https://ancestralguidance.com/mythic-keystone-dungeons/"
 ---
 
 This guide is written for newer restoration shamans who are interested in healing dungeons. This guide does not claim to

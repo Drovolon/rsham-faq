@@ -2,6 +2,7 @@
 layout: post
 title:  "Legendary Ranking"
 categories: legendaries
+redirect: "https://ancestralguidance.com/legendaries-antorus/"
 ---
 
 These rankings are subjective. [Contact me](/about) if you disagree.

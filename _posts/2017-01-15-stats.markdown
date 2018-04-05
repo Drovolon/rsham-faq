@@ -2,6 +2,7 @@
 layout: post
 title:  "Stats"
 categories: pawn stats weights
+redirect: "https://ancestralguidance.com/stats-and-where-to-find-them/"
 ---
 
 For a variety of reasons, the community does not provide stat weights or Pawn strings for resto shamans. Instead, we work on a priority system:
