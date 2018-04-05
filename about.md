@@ -4,13 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This site is intended to provide *opinionated* answers to frequently asked questions in the Earthshrine #restoration
-channel. It's aimed primarily at newer restoration shamans who are looking for information about stat priorities,
-legendary priorities, dungeon talent builds, trinket information, and so on.
+This site was built by (Discord handle) Drovolon#8860 during Nighthold in Legion. At the time, it was intended to
+provide highly opinionated, straight-to-the-point answers to frequently asked questions in the Earthshrine
+\#restoration channel. It was aimed at newer restoration shamans who were looking for basic information.
 
-This site is maintained by (Discord handle) Drovolon#8860, who idles in the Earthshrine #restoration channel, if you'd
-like to talk. Feel free to message me directly on Discord about this guide, but please direct general advice questions
-to the #restoration channel. I am not infallible and it's best that folks in #restoration are around to double-check any
-answers I give.
+Since then, an enterprising group of folks has put together a far more comprehensive site, [Ancestral Guidance][ag],
+that contains all the same information this site gave and much more, not to mention being up to date. For that
+reason, the old individual posts now redirect to the latest matching AG articles (well, at least at the time of
+writing).
 
-You can also contribute [on GitHub](https://github.com/Drovolon/rsham-faq). Pull requests accepted.
+This site's code and deployment scripts live [on GitHub][github]. Pull requests are accepted, if for some reason
+something actually needs to change.
+
+[ag]: https://ancestralguidance.com/
+[github]: https://github.com/Drovolon/rsham-faq
